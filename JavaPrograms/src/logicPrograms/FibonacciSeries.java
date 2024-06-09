@@ -1,6 +1,7 @@
 package logicPrograms;
 
 // fibonacci series is a series of  additionn of first two no is third like first two no are 0 , 1 and then 1,2,3,5
+// first 10 fibonacci series no
 public class FibonacciSeries {
 	public static void main(String[] args) {
 		int num1 = 0;
